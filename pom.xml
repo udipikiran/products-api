@@ -39,8 +39,8 @@
 								<properties>
 									<env>dev</env>
 									<api.id>19269495</api.id>
-									<anypoint.platform.client_id>${anypoint.platform.client_id}</anypoint.platform.client_id>
-									<anypoint.platform.client_secret>${anypoint.platform.client_secret}</anypoint.platform.client_secret>
+									<anypoint.platform.client_id>40faf75cb0df46b3975c9102689d0244</anypoint.platform.client_id>
+									<anypoint.platform.client_secret>bB76D97d0C174474bEF386747928b912</anypoint.platform.client_secret>
 								</properties>
 							</cloudHubDeployment>
 						</configuration>
@@ -94,8 +94,8 @@
 					<cloudHubDeployment>
 						<uri>https://anypoint.mulesoft.com</uri>
 						<muleVersion>4.5</muleVersion>
-						<username>${username}</username>
-						<password>${password}</password>
+						<username>kirankrao11</username>
+						<password>Vampire27</password>
 						<properties>
 							<http.port>8081</http.port>
 							<anypoint.platform.base_uri>https://anypoint.mulesoft.com/</anypoint.platform.base_uri>
