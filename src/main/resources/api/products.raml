@@ -1,0 +1,17 @@
+#%RAML 1.0
+title: products api
+baseUri: http://localhost:8081/products
+/products:
+  get:
+    responses:
+      200:
+        body:
+          application/json:
+            example:
+              {
+                "productId":72341,
+                "productName":"Test Course",
+                "productProvider":"Udemy",
+                "productDescription":"Testing the Maven Course"
+              }
+               
