@@ -134,7 +134,7 @@ output application/json
 ---
 {
   productId: 72341,
-  productName: "Test Course for Jenkins",
+  productName: "Test Course for Jenkins and Mule",
   productProvider: "Udemy",
   productDescription: "Testing the Maven Course"
 } as Object {encoding: "UTF-8", mediaType: "application/json"}]]></ee:set-payload>
